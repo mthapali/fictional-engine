@@ -7,7 +7,7 @@ jobs:
     steps:
     - name: Hello world action step
       id: hello
-      uses: actions/fictional-engine@v1
+      uses: actions/fictional-engine@master
       with:
         who-to-greet: 'Programmer'
     # Use the output from the `hello` step

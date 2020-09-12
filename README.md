@@ -18,6 +18,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: actions/fictional-engine@v1
+uses: actions/fictional-engine@master
 with:
   who-to-greet: 'Programmer'
