@@ -20,4 +20,4 @@ The time we greeted you.
 
 uses: actions/fictional-engine@v1
 with:
-  who-to-greet: 'Mona the Octocat'
+  who-to-greet: 'Programmer'
