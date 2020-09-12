@@ -18,6 +18,6 @@ The time we greeted you.
 
 ## Example usage
 
-uses: actions/project@v1
+uses: actions/fictional-engine@v1
 with:
   who-to-greet: 'Mona the Octocat'
