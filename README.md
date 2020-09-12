@@ -20,4 +20,4 @@ The time we greeted you.
 
 uses: actions/fictional-engine@master
 with:
-  who-to-greet: 'Programmer'
+      who-to-greet: 'Programmer'
